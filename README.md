@@ -1,4 +1,4 @@
-## Olii! Eu sou Thainá Santos 👋
+## Oii! Eu sou Thainá Santos 👋
 
 - 🌱 Atualmente estudando Front-end
 - 📧 Como chegar até mim: [thainadossantoss09@gmail.com](mailto:thainadossantoss09@gmail.com)
