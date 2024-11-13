@@ -13,8 +13,8 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{thainados_santos@hotmail.com})](mailto:{SeuEmail})
-[![Linkedin: Thainá](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)]
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{thainados_santos@hotmail.com})](mailto:{SeuEmail})
+[![Linkedin: Thainá](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)]
 
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
