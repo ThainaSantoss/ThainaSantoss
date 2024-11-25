@@ -5,11 +5,8 @@
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,ts)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,tailwind,html,css,mysql)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,tailwind,html,css,mysql)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
