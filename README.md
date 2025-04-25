@@ -6,7 +6,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,tailwind,html,css)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,tailwind,html,css,typescript,react)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
