@@ -3,6 +3,7 @@
 * Eu sou Estudante de Programação
 * Adoro construir novos projetos, ensinar e aprender novas tecnologias
 
+
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{thainados_santos@hotmail.com})](mailto:{SeuEmail})
 [![Linkedin: Thainá](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)
 
@@ -12,6 +13,8 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=tailwindcss)&nbsp;
+
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
