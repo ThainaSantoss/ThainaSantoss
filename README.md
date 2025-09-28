@@ -4,8 +4,9 @@
 * Adoro construir novos projetos, ensinar e aprender novas tecnologias
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{thainados_santos@hotmail.com})](mailto:{SeuEmail})
-[![Linkedin: Linkedln](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thainados_santos@hotmail.com)](mailto:thainados_santos@hotmail.com)
+[![Linkedin: Thainá](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thainadsantos/)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
@@ -13,10 +14,11 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
