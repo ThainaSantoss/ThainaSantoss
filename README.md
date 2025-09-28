@@ -5,7 +5,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{thainados_santos@hotmail.com})](mailto:{SeuEmail})
-[![Linkedin: Thainá](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)
+[![Linkedin: Linkedln](https://img.shields.io/badge/-Thainá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/thainadsantos/))](https://www.linkedin.com/in/thainadsantos/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
